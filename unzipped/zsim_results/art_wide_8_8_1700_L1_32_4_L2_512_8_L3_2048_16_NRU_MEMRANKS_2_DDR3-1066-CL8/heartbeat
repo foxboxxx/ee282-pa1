@@ -1,0 +1,9 @@
+Running on: instance-20250504-171516
+Start time: Mon May  5 04:36:55 2025
+Heartbeat time: Mon May  5 05:01:20 2025
+Stats since start:
+ 278333 phases
+ 2783330000 cycles
+ 1899883 cycles/s
+Stats since last heartbeat (5s):
+ 1832000 cycles/s
